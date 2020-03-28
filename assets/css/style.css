@@ -7904,7 +7904,7 @@ mark,
 }
 @media (max-width: 767px) {
   .header {
-    height: 350px;
+    height: 300px;
   }
   .header .display-3 {
     font-size: 2rem;
